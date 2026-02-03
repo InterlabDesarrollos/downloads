@@ -1,40 +1,58 @@
 {
   "product": "interlab-print",
-  "current_version": "1.0.6",
+  "current_version": "1.0.7",
   "minimum_version": "1.0.0",
   "release_date": "2026-02-03",
-  "release_tag": "interlab-print-v1.0.6",
-  "download_base_url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.6",
+  "release_tag": "interlab-print-v1.0.7",
+  "download_base_url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.7",
   "platforms": {
     "windows-amd64": {
-      "file": "InterlabPrint-1.0.6-windows-amd64.zip",
-      "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.6/InterlabPrint-1.0.6-windows-amd64.zip",
-      "checksum": "sha256:be5973616507ca2eb7d05513ef758c24bc300891f9a1ed4e60255c956a942cb1",
-      "size": 22138310,
+      "file": "InterlabPrint-1.0.7-windows-amd64.zip",
+      "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.7/InterlabPrint-1.0.7-windows-amd64.zip",
+      "checksum": "sha256:49079c7e3b59ca7b76dcdea9d407eaf7e73bfcf37933dbf4c99360459ed4779b",
+      "size": 22138316,
       "installer": {
-        "file": "InterlabPrint-1.0.6-windows-amd64.msi",
-        "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.6/InterlabPrint-1.0.6-windows-amd64.msi",
-        "checksum": "sha256:c577919ec93c9a4e3df83d46499e7b26c264c260c7827dd9897336530c6cb213",
+        "file": "InterlabPrint-1.0.7-windows-amd64.msi",
+        "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.7/InterlabPrint-1.0.7-windows-amd64.msi",
+        "checksum": "sha256:2380fa4d9a9117522817b2f7c3befb0a53f4d7167c4a11cfc62382e8d385bcf5",
         "size": 22368256
       }
     },
     "linux-amd64": {
-      "file": "InterlabPrint-1.0.6-linux-amd64.tar.gz",
-      "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.6/InterlabPrint-1.0.6-linux-amd64.tar.gz",
+      "file": "InterlabPrint-1.0.7-linux-amd64.tar.gz",
+      "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.7/InterlabPrint-1.0.7-linux-amd64.tar.gz",
       "checksum": "sha256:",
-      "size": 15856419
+      "size": 15856412,
+      "installer": {
+        "file": "InterlabPrint-1.0.7-linux-amd64.deb",
+        "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.7/InterlabPrint-1.0.7-linux-amd64.deb",
+        "checksum": "sha256:",
+        "size": 14301694
+      }
     },
     "darwin-amd64": {
-      "file": "InterlabPrint-1.0.6-darwin-amd64.tar.gz",
-      "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.6/InterlabPrint-1.0.6-darwin-amd64.tar.gz",
+      "file": "InterlabPrint-1.0.7-darwin-amd64.tar.gz",
+      "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.7/InterlabPrint-1.0.7-darwin-amd64.tar.gz",
       "checksum": "sha256:",
-      "size": 9729495
+      "size": 9729493,
+      "installer": {
+        "file": "InterlabPrint-1.0.7-darwin-amd64.pkg",
+        "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.7/InterlabPrint-1.0.7-darwin-amd64.pkg",
+        "checksum": "sha256:",
+        "size": 9732392
+      }
     },
     "darwin-arm64": {
-      "file": "InterlabPrint-1.0.6-darwin-arm64.tar.gz",
-      "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.6/InterlabPrint-1.0.6-darwin-arm64.tar.gz",
+      "file": "InterlabPrint-1.0.7-darwin-arm64.tar.gz",
+      "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.7/InterlabPrint-1.0.7-darwin-arm64.tar.gz",
       "checksum": "sha256:",
-      "size": 9526595
+      "size": 9526600,
+      "installer": {
+        "file": "InterlabPrint-1.0.7-darwin-arm64.pkg",
+        "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.7/InterlabPrint-1.0.7-darwin-arm64.pkg",
+        "checksum": "sha256:",
+        "size": 9529594
+      }
     }
   }
 }
