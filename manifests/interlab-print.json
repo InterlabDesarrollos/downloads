@@ -1,57 +1,57 @@
 {
   "product": "interlab-print",
-  "current_version": "1.0.26",
+  "current_version": "1.0.28",
   "minimum_version": "1.0.0",
   "release_date": "2026-02-10",
-  "release_tag": "interlab-print-v1.0.26",
-  "download_base_url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.26",
+  "release_tag": "interlab-print-v1.0.28",
+  "download_base_url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.28",
   "platforms": {
     "windows-amd64": {
-      "file": "InterlabPrint-1.0.26-windows-amd64.zip",
-      "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.26/InterlabPrint-1.0.26-windows-amd64.zip",
-      "checksum": "sha256:b1532742b8db16c65ff57dfae4e37fbc4fa0d1f4aa2444040aff9efa4093ccc8",
-      "size": 23039154,
+      "file": "InterlabPrint-1.0.28-windows-amd64.zip",
+      "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.28/InterlabPrint-1.0.28-windows-amd64.zip",
+      "checksum": "sha256:d313c05ef8e726116be87d6e5fc0f00b8933bd7b6625d25cc4a130844886d6a9",
+      "size": 23039123,
       "installer": {
-        "file": "InterlabPrint-1.0.26-windows-amd64.msi",
-        "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.26/InterlabPrint-1.0.26-windows-amd64.msi",
-        "checksum": "sha256:5879ca8766c93c4b9599e250951a0a37c37e23ead839997a96767abcd3ad3c59",
+        "file": "InterlabPrint-1.0.28-windows-amd64.msi",
+        "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.28/InterlabPrint-1.0.28-windows-amd64.msi",
+        "checksum": "sha256:d78186a02fc221f5091b7f5602b60d5bf159780d2199b39f24b7f2698f25577b",
         "size": 78573568
       }
     },
     "linux-amd64": {
-      "file": "InterlabPrint-1.0.26-linux-amd64.tar.gz",
-      "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.26/InterlabPrint-1.0.26-linux-amd64.tar.gz",
-      "checksum": "sha256:ecd551f0e4b0af08af52022c0797bfa6deffc5866cd80705557bc5f683e8ce18",
-      "size": 16723217,
+      "file": "InterlabPrint-1.0.28-linux-amd64.tar.gz",
+      "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.28/InterlabPrint-1.0.28-linux-amd64.tar.gz",
+      "checksum": "sha256:6d008a501dd232744d394d0f9e4071c6410f576eddaca95749b899065240516c",
+      "size": 16723275,
       "installer": {
-        "file": "InterlabPrint-1.0.26-linux-amd64.deb",
-        "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.26/InterlabPrint-1.0.26-linux-amd64.deb",
-        "checksum": "sha256:4944fdba5912fa5c2e1ecabe48fde87115c200489927fef83488f7d3afc48355",
+        "file": "InterlabPrint-1.0.28-linux-amd64.deb",
+        "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.28/InterlabPrint-1.0.28-linux-amd64.deb",
+        "checksum": "sha256:2075c06dc25965f093e0fc7c9fe7346f8999ebb7c612442ab548af608c9ad7af",
         "size": 14893332
       }
     },
     "darwin-amd64": {
-      "file": "InterlabPrint-1.0.26-darwin-amd64.tar.gz",
-      "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.26/InterlabPrint-1.0.26-darwin-amd64.tar.gz",
-      "checksum": "sha256:0f02929a739dc962c8a1a5bb0c93312ae4b9bf90091df8b25e5b5bca5c28327e",
-      "size": 10522736,
+      "file": "InterlabPrint-1.0.28-darwin-amd64.tar.gz",
+      "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.28/InterlabPrint-1.0.28-darwin-amd64.tar.gz",
+      "checksum": "sha256:024b41412998dd55bf22a6037e97f4270c6ec2ed077afd4438ba1837a43e2ed1",
+      "size": 10522715,
       "installer": {
-        "file": "InterlabPrint-1.0.26-darwin-amd64.pkg",
-        "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.26/InterlabPrint-1.0.26-darwin-amd64.pkg",
-        "checksum": "sha256:527f407a6489830962e5bf45446c5791f0fdac15e58148253f7d879d0ea77c89",
-        "size": 10525727
+        "file": "InterlabPrint-1.0.28-darwin-amd64.pkg",
+        "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.28/InterlabPrint-1.0.28-darwin-amd64.pkg",
+        "checksum": "sha256:20465ed336d44c498fd85fd2610d98e143444b2e46c5630cd60a26aaac09343f",
+        "size": 10525716
       }
     },
     "darwin-arm64": {
-      "file": "InterlabPrint-1.0.26-darwin-arm64.tar.gz",
-      "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.26/InterlabPrint-1.0.26-darwin-arm64.tar.gz",
-      "checksum": "sha256:84ce84d42c48b91e25e3c0cf17d017ab44e94922e146eef30fa26628f37cc7a4",
-      "size": 10314337,
+      "file": "InterlabPrint-1.0.28-darwin-arm64.tar.gz",
+      "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.28/InterlabPrint-1.0.28-darwin-arm64.tar.gz",
+      "checksum": "sha256:0f339b76743304362519d5bbe225e92a625924b9aa40c8ee3b06e1892d26e028",
+      "size": 10314327,
       "installer": {
-        "file": "InterlabPrint-1.0.26-darwin-arm64.pkg",
-        "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.26/InterlabPrint-1.0.26-darwin-arm64.pkg",
-        "checksum": "sha256:b508cde585dfc51aea8ba641c6fe527a2d3208ce002fce0d36d65718e6f5f88d",
-        "size": 10317394
+        "file": "InterlabPrint-1.0.28-darwin-arm64.pkg",
+        "url": "https://github.com/InterlabDesarrollos/downloads/releases/download/interlab-print-v1.0.28/InterlabPrint-1.0.28-darwin-arm64.pkg",
+        "checksum": "sha256:cb128294f44b0c14b64be119e97d47a948dfb5f969a7dbabb6f37c42b77892c5",
+        "size": 10317402
       }
     }
   }
